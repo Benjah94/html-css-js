@@ -1,0 +1,24 @@
+img{
+    width: 200px;
+    height: 240px;
+    border-radius: 150%;
+    border-color: white;
+    
+}
+body{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial;
+}
+.tarjeta{
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+    border-radius: 0.5rem;
+    width: 300px;
+    text-align: center;
+    background-color: bisque;
+    padding: 1rem;
+    
+}
